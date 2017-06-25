@@ -1,0 +1,6 @@
+export const AUTH_CONFIG = {
+  clientId: 'CHANGE_ME', // <-- change this
+  domain: 'CHANGE_ME.auth0.com', // <-- change this
+  callbackUrl: 'http://localhost:8080/callback',
+  apiUrl: 'API_IDENTIFIER'
+};
